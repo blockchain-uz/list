@@ -4,7 +4,6 @@
 
 **!!! Если у вас есть дополнения, отправляйте pull-реквесты!!!**
 
-
 ## Сообщества
 
 ### Телеграм группы
@@ -15,7 +14,6 @@
 * https://t.me/joinchat/BVV-BA6XugpvmrBdVmSbIA - Узбекоязычный чат по криптовалютам
 * https://t.me/bitcoinuzbekistan - Криптовалютное сообщество
 
-
 ### Телеграм каналы
 
 * https://t.me/blockchainuz - События связанные с блокчейн в Узбекситане и мире
@@ -23,23 +21,19 @@
 * https://t.me/cryptogirluzb - Девушка в криптомире
 * https://t.me/SiDminingtradeing - Соревнование между супругами, между майнером и трейдером
 
-
 ### Facebook
 
 * https://facebook.com/blockchainuz - События связанные с блокчейн в Узбекситане и мире
 
-
-
 ## Проекты
 
-
 ### bitSUM
-
+Первая криптовалюта Узбекистана
 * **Сайт** - http://bitsum.uz
 * **Чат** - https://t.me/BitsumCommunity (english)
 * **Чат** - https://t.me/BitsumRU (русский)
 * **Канал** - https://t.me/BitsumChannel (english)
 * **Канал** - https://t.me/BitsumChannelRU (русский)
 
-
 ## Люди
+
