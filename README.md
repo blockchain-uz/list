@@ -13,6 +13,7 @@
 * https://t.me/mining_uz - Сообщество майнеров Узбекистана
 * https://t.me/joinchat/BVV-BA6XugpvmrBdVmSbIA - Узбекоязычный чат по криптовалютам
 * https://t.me/bitcoinuzbekistan - Криптовалютное сообщество
+* https://t.me/MycryptostartDiscus - Клуб крипто-предпринимателей
 
 ### Телеграм каналы
 
@@ -20,6 +21,9 @@
 * https://t.me/bitkoinuz - О биткоин и блокчейн на узбекском языке
 * https://t.me/cryptogirluzb - Девушка в криптомире
 * https://t.me/SiDminingtradeing - Соревнование между супругами, между майнером и трейдером
+* https://t.me/mycryptostart - Канал клуба криптопредпринимателей 
+* https://t.me/Crypt0BountyHunter - Информационный канал о различных баунти программах
+
 
 ### Facebook
 
