@@ -23,6 +23,7 @@
 * https://t.me/SiDminingtradeing - Соревнование между супругами, между майнером и трейдером
 * https://t.me/mycryptostart - Канал клуба криптопредпринимателей 
 * https://t.me/Crypt0BountyHunter - Информационный канал о различных баунти программах
+* https://t.me/uzchain - О блокчейн и криптовалютах на узбекском языке
 
 
 ### Facebook
