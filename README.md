@@ -27,7 +27,7 @@
 * https://t.me/Crypt0BountyHunter - Информационный канал о различных баунти программах
 * https://t.me/uzchain - О блокчейн и криптовалютах на узбекском языке
 * https://t.me/UBP_official - Uzbekistan Blockchain Partners (UBP)
-
+* https://t.me/CryptoLab_uz - Канал о новостях из криптомира
 
 ### Facebook
 
@@ -45,3 +45,5 @@
 
 ## Люди
 
+* **Санжар Насирбеков** - https://www.spot.uz/ru/2018/03/12/mining/
+* **Лина K. Мун** - https://www.spot.uz/ru/2018/04/07/lina-k-moon/
