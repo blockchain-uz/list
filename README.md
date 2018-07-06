@@ -36,7 +36,7 @@ http://lex.uz/ru/pdfs/3806048
 
 ### Facebook
 
-* https://facebook.com/blockchainuz - События связанные с блокчейн в Узбекситане и мире
+* https://facebook.com/blockchainuz - События связанные с блокчейн в Узбекистане и мире
 
 ## Проекты
 
