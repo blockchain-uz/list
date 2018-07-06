@@ -4,6 +4,11 @@
 
 **!!! Если у вас есть дополнения, отправляйте pull-реквесты!!!**
 
+## Законодательство
+
+* Постановление Президента Республики Узбекистан ПП-3832
+http://lex.uz/ru/pdfs/3806048
+
 ## Сообщества
 
 ### Телеграм группы
@@ -38,10 +43,10 @@
 ### bitSUM
 Первая криптовалюта Узбекистана
 * **Сайт** - http://bitsum.uz
-* **Чат** - https://t.me/BitsumCommunity (english)
-* **Чат** - https://t.me/BitsumRU (русский)
-* **Канал** - https://t.me/BitsumChannel (english)
-* **Канал** - https://t.me/BitsumChannelRU (русский)
+* **Чат** - https://t.me/BitsumChat (english)
+* **Чат** - https://t.me/BitsumRUChat (русский)
+* **Канал** - https://t.me/bitsum (english)
+* **Канал** - https://t.me/BitsumRU (русский)
 
 ## Люди
 
