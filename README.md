@@ -56,3 +56,8 @@ http://lex.uz/ru/pdfs/3806048
 
 * **Санжар Насирбеков** - https://www.spot.uz/ru/2018/03/12/mining/
 * **Лина K. Мун** - https://www.spot.uz/ru/2018/04/07/lina-k-moon/
+
+ ## Полезно
+ 
+* https://t.me/uzdevgroup - Сообщество разработчиков Узбекистана
+* https://t.me/uzdev_jobs - IT вакансии Узбекистана
