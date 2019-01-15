@@ -23,17 +23,17 @@ http://lex.uz/pdfs/3891627
 ### Телеграм группы
 
 * https://t.me/blockchainuz - Обсуждения технологии и новостей по блокчейн;
-* https://t.me/cryptouz - Чат любителей криптовалют;
+* https://t.me/blockchain_coding_uz - Локальная группа блокчейн разработчиков;
 * https://t.me/joinchat/BFOgiT8KZGPfTzcLprEwHg - Сообщество майнеров Узбекистана;
 * https://t.me/joinchat/BVV-BA6XugpvmrBdVmSbIA - Узбекоязычный чат по криптовалютам;
 * https://t.me/bitcoinuzbekistan - Криптовалютное сообщество;
-* https://t.me/ubp_uz - Uzbekistan Blockchain Partners (UBP);
-* https://t.me/MornSS - Morningstar Solutions - Группа разработчиков и пользователей технологии Blockchain.
+* https://t.me/MornSS - Morningstar Solutions - Группа разработчиков и пользователей технологии Blockchain;
+* https://t.me/bit_uz - группа пользователей обменника bitok.uz;
+* https://t.me/cryptobazzar_uz - группа для обмена товарами и услугами за крипту.
 
 ### Телеграм каналы
 
 * https://t.me/blockchainuz - События связанные с блокчейн в Узбекситане и мире;
-* https://t.me/UBP_official - Uzbekistan Blockchain Partners (UBP);
 * https://t.me/bitkoinuz - О биткоин и блокчейн на узбекском языке;
 * https://t.me/Crypt0BountyHunter - Информационный канал о различных баунти программах;
 * https://t.me/uzchain - О блокчейн и криптовалютах на узбекском языке;
@@ -46,6 +46,7 @@ http://lex.uz/pdfs/3891627
 ## Проекты
 
 ### bitSUM
+
 Первая криптовалюта Узбекистана
 * **Сайт** - http://bitsum.uz
 * **Чат** - https://t.me/BitsumChat (english)
@@ -62,3 +63,4 @@ http://lex.uz/pdfs/3891627
  
 * https://t.me/uzdevgroup - Сообщество разработчиков Узбекистана
 * https://t.me/uzdev_jobs - IT вакансии Узбекистана
+* https://t.me/tasdev_talks - TasDev в телеграм
