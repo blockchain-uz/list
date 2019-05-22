@@ -36,10 +36,11 @@ http://lex.uz/pdfs/3891627
 ### Телеграм каналы
 
 * https://t.me/blockchainuz - События связанные с блокчейн в Узбекситане и мире;
+* https://t.me/BitcoinUzbekiston - Новостной канал о криптовалютах на узбекском языке;
 * https://t.me/bitkoinuz - О биткоин и блокчейн на узбекском языке;
 * https://t.me/Crypt0BountyHunter - Информационный канал о различных баунти программах;
-* https://t.me/uzchain - О блокчейн и криптовалютах на узбекском языке;
-* https://t.me/CryptoLab_uz - Канал о новостях из криптомира.
+* https://t.me/uzchain (канал умер) - О блокчейн и криптовалютах на узбекском языке;
+* https://t.me/CryptoLab_uz (канал умер) - Канал о новостях из криптомира.
 
 ### Facebook
 
@@ -60,7 +61,7 @@ http://lex.uz/pdfs/3891627
 
 * **Санжар Насирбеков** - https://www.spot.uz/ru/2018/03/12/mining
 * **Лина K. Мун** - https://www.spot.uz/ru/2018/04/07/lina-k-moon
-
+* **Шахруз Аширов** - https://procrypto.uz
  ## Полезно
  
 * https://t.me/uzdevgroup - Сообщество разработчиков Узбекистана
